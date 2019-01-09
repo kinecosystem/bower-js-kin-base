@@ -1,12 +1,15 @@
 {
-  "name": "stellar-base",
-  "homepage": "https://github.com/stellar/bower-js-stellar-base",
+  "name": "kin-base",
+  "homepage": "https://github.com/kinecosystem/bower-js-kin-base",
   "authors": [
-    "Stellar Development Foundation"
+    "Kin Foundation"
   ],
-  "description": "Low level stellar support library",
-  "main": "./stellar-base.min.js",
+  "description": "Low level Kin support library",
+  "main": "./kin-base.min.js",
   "keywords": [
+    "blockchain",
+    "cryptocurrency",
+    "kin",
     "stellar"
   ],
   "license": "Apache 2.0"

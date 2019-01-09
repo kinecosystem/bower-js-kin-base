@@ -1,3 +1,3 @@
-# js-stellar-base for Bower
+# js-kin-base for Bower
 
-Packaged version of [js-stellar-base](https://github.com/stellar/js-stellar-base) for front-end development.
+Packaged version of [js-kin-base](https://github.com/kinecosystem/js-kin-base) for front-end development.
